@@ -1,12 +1,20 @@
 # project
 
 #Output
+![Screenshot_1706634723](https://github.com/Nameera1511/MusicApp/assets/107801578/70cdfeb5-6429-48c1-9443-c1e3a0874d53)
+#Output
+![Screenshot_1706634778](https://github.com/Nameera1511/MusicApp/assets/107801578/eb8dfcf0-b592-47ce-8d0f-b3add95dcc53)
+#Output
+![Screenshot_1706634738](https://github.com/Nameera1511/MusicApp/assets/107801578/565a15b4-2484-414a-8622-612d5ab7c9f2)
+#Ouput
+
+![Screenshot_1706634747](https://github.com/Nameera1511/MusicApp/assets/107801578/fe13e04c-fe5e-40fd-9e1b-103542d00108)
+
+
+
 
 A new Flutter project.
-![Screenshot_1706634723](https://github.com/Nameera1511/MusicApp/assets/107801578/ca76d87d-ab62-4ad5-9798-8711f4eee474)
-![Screenshot_1706634778](https://github.com/Nameera1511/MusicApp/assets/107801578/039fc221-2024-49f7-b409-![Screenshot_1706634738](https://github.com/Nameera1511/MusicApp/assets/107801578/3f0854d6-10f8-4385-af21-08674e1![Screenshot_1706634747](https://github.com/Nameera1511/MusicApp/assets/107801578/1b21fbc1-e5ad-4683-90c8-7dcda4428aa0)
-a92d2)
-4339afc97558)
+
 
 ## Getting Started
 
