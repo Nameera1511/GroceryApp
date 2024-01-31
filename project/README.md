@@ -1,14 +1,19 @@
 # project
 
+#Output![Screenshot_1706698639](https://github.com/Nameera1511/GroceryApp/assets/107801578/3691b6a7-8db4-432c-9628-b8cc078a5d30)
+
+
 #Output
-![Screenshot_1706634723](https://github.com/Nameera1511/MusicApp/assets/107801578/70cdfeb5-6429-48c1-9443-c1e3a0874d53)
-#Output
-![Screenshot_1706634778](https://github.com/Nameera1511/MusicApp/assets/107801578/eb8dfcf0-b592-47ce-8d0f-b3add95dcc53)
-#Output
-![Screenshot_1706634738](https://github.com/Nameera1511/MusicApp/assets/107801578/565a15b4-2484-414a-8622-612d5ab7c9f2)
+![Screenshot_1706698655](https://github.com/Nameera1511/GroceryApp/assets/107801578/58fcc330-ffbb-466e-b4b3-efa26e47f16c)
+
+#Output![Screenshot_1706698671](https://github.com/Nameera1511/GroceryApp/assets/107801578/0eef7e42-9f46-421a-bdc3-ccaae6565163)
+
+
+#Ouput
+![Screenshot_1706698705](https://github.com/Nameera1511/GroceryApp/assets/107801578/2a93e15a-3e67-423b-b4e5-32bcef6352e4)
 #Ouput
 
-![Screenshot_1706634747](https://github.com/Nameera1511/MusicApp/assets/107801578/fe13e04c-fe5e-40fd-9e1b-103542d00108)
+![Screenshot_1706698714](https://github.com/Nameera1511/GroceryApp/assets/107801578/50a76d2c-4af2-42f3-a9cf-1685e7532786)
 
 
 
