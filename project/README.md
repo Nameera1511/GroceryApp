@@ -1,6 +1,12 @@
 # project
 
+#Output
+
 A new Flutter project.
+![Screenshot_1706634723](https://github.com/Nameera1511/MusicApp/assets/107801578/ca76d87d-ab62-4ad5-9798-8711f4eee474)
+![Screenshot_1706634778](https://github.com/Nameera1511/MusicApp/assets/107801578/039fc221-2024-49f7-b409-![Screenshot_1706634738](https://github.com/Nameera1511/MusicApp/assets/107801578/3f0854d6-10f8-4385-af21-08674e1![Screenshot_1706634747](https://github.com/Nameera1511/MusicApp/assets/107801578/1b21fbc1-e5ad-4683-90c8-7dcda4428aa0)
+a92d2)
+4339afc97558)
 
 ## Getting Started
 
@@ -15,9 +21,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Screenshot_1706634723](https://github.com/Nameera1511/MusicApp/assets/107801578/acbec7c5-b5e5-431d-9a92-d47d42d01e8a)
-![Screenshot_1706634778](https://github.com/Nameera1511/MusicApp/assets/107801578/9a769555-ceba-4017-a7c1-827b4e4f5578)![Screenshot_1706634738]![Screenshot_1706634747](https://github.com/Nameera1511/MusicApp/assets/107801578/82c87b90-c18b-4ff6-af18-29b3cda2a37a)
-(https://github.com/Nameera1511/MusicApp/assets/107801578/6089bea7-2893-45b4-941b-aecac0621e21)
+
 
 
 
